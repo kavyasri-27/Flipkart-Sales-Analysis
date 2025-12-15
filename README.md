@@ -16,9 +16,8 @@ This project focuses on analyzing Flipkart sales data using **SQL** and **Power 
 
 ## 📁 Project Structure
 - `sql/` – SQL queries used for analysis  
-- `powerbi/` – Power BI dashboard file  
+- `powerbi/` – Dashboard screenshots    
 - `data/` – Sample dataset  
-- `screenshots/` – Dashboard screenshots  
 
 ## ✅ Outcome
 - Built interactive Power BI dashboards
