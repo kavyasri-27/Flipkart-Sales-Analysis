@@ -1,0 +1,286 @@
+product_id,product_name,price,cogs,category,brand
+1,Amazon Echo Studio,20000,14000,Accessories,Amazon
+2,Anker Power Bank 20000mAh,3000,2000,Accessories,Anker
+3,Apple Watch SE,25000,15000,Accessories,Apple
+4,Apple Watch Series 6,40000,25000,Accessories,Apple
+5,Apple HomePod Mini,10000,7000,Accessories,Apple
+6,Reusable Water Bottle,500,300,Accessories,AquaPlus
+7,ASUS TUF Gaming Mouse,5000,3000,Accessories,ASUS
+8,Asus ROG Strix Gaming Headset,12000,8000,Accessories,Asus
+9,Bose QuietComfort Headset,18000,12000,Accessories,Bose
+10,Bose SoundLink Speaker,15000,10000,Accessories,Bose
+11,Bose Noise Cancelling 700,25000,18000,Accessories,Bose
+12,Bose SoundLink Revolve,15000,10000,Accessories,Bose
+13,Bose QuietComfort 35 II,30000,20000,Accessories,Bose
+14,Bose SoundLink Micro,10000,7000,Accessories,Bose
+15,Rechargeable Flashlight,600,400,Accessories,BrightFlash
+16,LED Flashlight,400,250,Accessories,BrightLite
+17,Bluetooth Car Kit,800,500,Accessories,CarConnect
+18,Car Phone Mount,600,350,Accessories,CarTech
+19,USB Rechargeable Battery,1000,600,Accessories,ChargeMax
+20,Keyboard,2500,1500,Accessories,Corsair
+21,Corsair K95 RGB Keyboard,12000,8000,Accessories,Corsair
+22,Corsair K70 RGB Keyboard,15000,10000,Accessories,Corsair
+23,Corsair Vengeance RAM,8000,4000,Accessories,Corsair
+24,Desktop Organizer,800,500,Accessories,DeskPro
+25,Bluetooth Earbuds,1500,900,Accessories,EchoSound
+26,Smartwatch,7000,5000,Accessories,Fitbit
+27,Fitbit Charge 4,8000,5000,Accessories,Fitbit
+28,Fitbit Sense,25000,16000,Accessories,Fitbit
+29,Fitbit Versa 3,18000,12000,Accessories,Fitbit
+30,Fitbit Inspire 2,12000,8000,Accessories,Fitbit
+31,Fitbit Charge 4,20000,13000,Accessories,Fitbit
+32,Foldable Laptop Stand,700,450,Accessories,FlexStand
+33,Fossil Hybrid HR Watch,10000,7000,Accessories,Fossil
+34,Garmin Fenix 6,40000,25000,Accessories,Garmin
+35,Garmin Forerunner 945,40000,27000,Accessories,Garmin
+36,Garmin Fenix 5,35000,23000,Accessories,Garmin
+37,Garmin Instinct Solar,25000,17000,Accessories,Garmin
+38,Generic Bluetooth Headphones,1500,1000,Accessories,Generic
+39,Smartphone Stand,500,300,Accessories,Generic
+40,2-in-1 USB Charging Cable,400,200,Accessories,Generic
+41,Over-Ear Headphones,2500,1700,Accessories,Generic
+42,Phone Case,400,250,Accessories,Generic
+43,Google Nest Hub Max,20000,13000,Accessories,Google
+44,Huawei Watch GT2,15000,9000,Accessories,Huawei
+45,Huawei FreeBuds 4,10000,6500,Accessories,Huawei
+46,JBL Flip 5 Bluetooth Speaker,8000,5000,Accessories,JBL
+47,JBL Quantum 400 Gaming Headset,8000,5000,Accessories,JBL
+48,JBL PartyBox 1000,30000,20000,Accessories,JBL
+49,JBL Charge 4 Speaker,12000,8000,Accessories,JBL
+50,JBL Pulse 4 Speaker,20000,12000,Accessories,JBL
+51,JBL PartyBox 300 Speaker,35000,25000,Accessories,JBL
+52,JBL Tune 500BT Headphones,6000,4000,Accessories,JBL
+53,LED Desk Organizer,1000,600,Accessories,LightDesk
+54,USB-C Hub,1200,800,Accessories,LinkHub
+55,Gaming Mouse,1500,800,Accessories,Logitech
+56,Logitech G Pro Mouse,3000,2000,Accessories,Logitech
+57,Logitech MX Master 3 Mouse,7000,4000,Accessories,Logitech
+58,Logitech G Pro X Headset,12000,8000,Accessories,Logitech
+59,Logitech MX Master 3 Mouse,8000,5000,Accessories,Logitech
+60,Logitech C920 Webcam,8000,5000,Accessories,Logitech
+61,Portable Power Bank 5000mAh,1000,600,Accessories,PowerCore
+62,Cordless Electric Screwdriver,2500,1500,Accessories,PowerGrip
+63,Power Strip with USB Ports,1200,800,Accessories,PowerMax
+64,Gaming Headset,4000,2500,Accessories,Razer
+65,Razer Kraken Gaming Headset,8000,5000,Accessories,Razer
+66,Laptop Bag,2500,1500,Accessories,Samsonite
+67,Samsung Galaxy Watch 4,20000,13000,Accessories,Samsung
+68,Samsung Galaxy Buds Pro,12000,8000,Accessories,Samsung
+69,Samsung 1TB SSD,10000,6000,Accessories,Samsung
+70,Samsung Galaxy Watch 3,25000,16000,Accessories,Samsung
+71,Samsung Galaxy Buds Live,10000,6000,Accessories,Samsung
+72,Samsung 2TB SSD,16000,11000,Accessories,Samsung
+73,Samsung 1TB HDD,7000,4000,Accessories,Samsung
+74,Samsung Galaxy Watch Active,20000,13000,Accessories,Samsung
+75,Samsung 1TB SSD 970 EVO,8000,5000,Accessories,Samsung
+76,Sandisk 256GB SSD,8000,5000,Accessories,Sandisk
+77,USB Flash Drive 32GB,600,400,Accessories,SanDisk
+78,Seagate 1TB HDD,4000,2500,Accessories,Seagate
+79,Seagate 1TB External HDD,5000,3500,Accessories,Seagate
+80,Sennheiser Momentum Wireless Headphones,20000,15000,Accessories,Sennheiser
+81,Sennheiser Momentum Wireless 3,35000,24000,Accessories,Sennheiser
+82,Solar Battery Charger,2000,1200,Accessories,SolarPower
+83,Wireless Headset,3500,2500,Accessories,Sony
+84,Sony WH-1000XM4 Headphones,30000,20000,Accessories,Sony
+85,Sony WH-CH710N Headphones,15000,10000,Accessories,Sony
+86,Mini Bluetooth Speaker,1200,800,Accessories,SoundBox
+87,Portable Speaker,1500,900,Accessories,SoundWave
+88,Smartphone Case,1000,500,Accessories,Spigen
+89,SteelSeries Arctis 7 Headset,10000,6000,Accessories,SteelSeries
+90,Digital Luggage Scale,700,400,Accessories,TravelTech
+91,4K HDMI Cable,600,400,Accessories,UltraCable
+92,Wireless Charging Pad,1500,900,Accessories,VoltCharge
+93,Xiaomi Mi Smart Band 5,3000,1500,Accessories,Xiaomi
+94,Acer Predator Monitor,35000,22000,Electronics,Acer
+95,Acer Aspire 5,35000,22000,Electronics,Acer
+96,Acer Predator Helios 300,95000,65000,Electronics,Acer
+97,Alienware Aurora R10,100000,70000,Electronics,Alienware
+98,Amazon Fire TV Stick 4K,4000,2500,Electronics,Amazon
+99,Tablet,22000,15000,Electronics,Apple
+100,Apple iPhone 13,75000,50000,Electronics,Apple
+101,iPad Pro 11,70000,45000,Electronics,Apple
+102,iPhone 12 Mini,65000,40000,Electronics,Apple
+103,MacBook Air 2020,80000,55000,Electronics,Apple
+104,"Apple MacBook Pro 16""",150000,100000,Electronics,Apple
+105,Apple MacBook Air 2020,85000,55000,Electronics,Apple
+106,Apple iPhone SE 2020,40000,25000,Electronics,Apple
+107,Apple iPad Air 2020,60000,40000,Electronics,Apple
+108,"Apple MacBook Pro 13""",100000,70000,Electronics,Apple
+109,iPhone 13 Pro,95000,65000,Electronics,Apple
+110,iPhone 12 Pro Max,95000,65000,Electronics,Apple
+111,"Apple iMac 24""",100000,70000,Electronics,Apple
+112,Apple iPhone 12,75000,50000,Electronics,Apple
+113,Asus ROG Gaming Laptop,90000,60000,Electronics,Asus
+114,Asus TUF Gaming Monitor,25000,17000,Electronics,Asus
+115,Asus ROG Strix Gaming Monitor,35000,23000,Electronics,Asus
+116,Asus TUF Gaming Laptop,90000,60000,Electronics,ASUS
+117,Bosch 4K UHD TV,100000,70000,Electronics,Bosch
+118,Bose Soundbar 500,25000,16000,Electronics,Bose
+119,Brother HL-L2350DW Printer,10000,6000,Electronics,Brother
+120,Digital Camera,15000,10000,Electronics,Canon
+121,Canon EOS 90D Camera,120000,80000,Electronics,Canon
+122,Canon EOS 5D Mark IV,200000,120000,Electronics,Canon
+123,Canon EOS Rebel T7,40000,25000,Electronics,Canon
+124,Canon EOS M50,45000,30000,Electronics,Canon
+125,Canon EOS 90D,100000,70000,Electronics,Canon
+126,Canon Pixma G3020 Printer,12000,7000,Electronics,Canon
+127,Laptop Cooling Pad,1500,1000,Electronics,ChillPad
+128,Laptop,45000,30000,Electronics,Dell
+129,Dell Inspiron 14 Laptop,45000,30000,Electronics,Dell
+130,Dell XPS 13,95000,60000,Electronics,Dell
+131,Dell UltraSharp Monitor,35000,24000,Electronics,Dell
+132,Dell Inspiron 14 Laptop,45000,30000,Electronics,Dell
+133,Dell G5 Gaming Laptop,95000,60000,Electronics,Dell
+134,Epson EcoTank Printer,20000,12000,Electronics,Epson
+135,Fujifilm X-T4 Camera,100000,70000,Electronics,Fujifilm
+136,GoPro HERO 9 Black,40000,27000,Electronics,GoPro
+137,HP Pavilion Laptop,55000,35000,Electronics,HP
+138,HP Envy 13 Laptop,70000,45000,Electronics,HP
+139,HP Omen Gaming Laptop,95000,65000,Electronics,HP
+140,HP Envy 13 Laptop,75000,50000,Electronics,HP
+141,HP Pavilion Gaming Laptop,85000,55000,Electronics,HP
+142,HP LaserJet Pro MFP,20000,15000,Electronics,HP
+143,Huawei P30 Pro,50000,35000,Electronics,Huawei
+144,Huawei P40 Pro,65000,45000,Electronics,Huawei
+145,Huawei P40,60000,40000,Electronics,Huawei
+146,Huawei MateBook D15,45000,30000,Electronics,Huawei
+147,Huawei P30 Pro,60000,40000,Electronics,Huawei
+148,Huawei Honor 9X Pro,35000,23000,Electronics,Huawei
+149,Wireless Mouse,800,500,Electronics,HyperX
+150,Lenovo Legion Gaming Laptop,80000,55000,Electronics,Lenovo
+151,Lenovo ThinkPad X1 Carbon,120000,80000,Electronics,Lenovo
+152,Lenovo IdeaPad 3,40000,28000,Electronics,Lenovo
+153,Lenovo ThinkPad E14,50000,32000,Electronics,Lenovo
+154,Lenovo Legion 5 Pro,120000,80000,Electronics,Lenovo
+155,Lenovo Legion Laptop,85000,55000,Electronics,Lenovo
+156,"LG OLED 55"" TV",120000,80000,Electronics,LG
+157,LG Gram 17 Laptop,95000,65000,Electronics,LG
+158,"LG NanoCell 55"" TV",70000,45000,Electronics,LG
+159,"LG 27"" 4K Monitor",30000,20000,Electronics,LG
+160,"LG 32"" UHD 4K Monitor",25000,15000,Electronics,LG
+161,LG 5.1 Channel Soundbar,35000,22000,Electronics,LG
+162,"LG 43"" UHD TV",35000,23000,Electronics,LG
+163,Microsoft Surface Laptop,90000,60000,Electronics,Microsoft
+164,Microsoft Xbox Series X,50000,35000,Electronics,Microsoft
+165,LED Projector,4000,2500,Electronics,MiniVision
+166,MSI GE76 Raider Laptop,150000,100000,Electronics,MSI
+167,Nikon D3500 Camera,40000,25000,Electronics,Nikon
+168,Nikon D3500 Camera,50000,35000,Electronics,Nikon
+169,Nintendo Switch Console,25000,17000,Electronics,Nintendo
+170,OnePlus 9 Pro,70000,45000,Electronics,OnePlus
+171,OnePlus Nord,25000,17000,Electronics,OnePlus
+172,OnePlus 8T,45000,30000,Electronics,OnePlus
+173,Panasonic 2.1 Channel Soundbar,12000,7000,Electronics,Panasonic
+174,Gaming Console,25000,18000,Electronics,PlayStation
+175,Smartphone,20000,15000,Electronics,Samsung
+176,Smart TV,55000,35000,Electronics,Samsung
+177,"Samsung 32"" LED TV",22000,15000,Electronics,Samsung
+178,"Samsung 55"" Smart TV",65000,40000,Electronics,Samsung
+179,Samsung Note 20 Ultra,90000,60000,Electronics,Samsung
+180,Samsung Galaxy S21,70000,45000,Electronics,Samsung
+181,"Samsung 75"" QLED TV",150000,95000,Electronics,Samsung
+182,Samsung Galaxy A51,25000,16000,Electronics,Samsung
+183,Samsung Galaxy Tab S6,40000,27000,Electronics,Samsung
+184,"Samsung 15.6"" Laptop",40000,25000,Electronics,Samsung
+185,Samsung Galaxy Tab A7,20000,12000,Electronics,Samsung
+186,Samsung Galaxy Note 20,70000,45000,Electronics,Samsung
+187,Samsung Galaxy S20,65000,42000,Electronics,Samsung
+188,"Samsung 55"" UHD TV",65000,40000,Electronics,Samsung
+189,"Samsung Q80T 55"" QLED TV",120000,75000,Electronics,Samsung
+190,Bluetooth Smart Watch,2500,1800,Electronics,SmartTime
+191,Sonos Beam Soundbar,35000,23000,Electronics,Sonos
+192,Sony Alpha 7 Camera,150000,100000,Electronics,Sony
+193,"Sony Bravia 50"" Smart TV",85000,55000,Electronics,Sony
+194,Sony 4K Blu-ray Player,15000,10000,Electronics,Sony
+195,Sony Xperia 1 II,80000,55000,Electronics,Sony
+196,Sony PlayStation 5,50000,35000,Electronics,Sony
+197,Sony Xperia 10,30000,18000,Electronics,Sony
+198,Sony PlayStation 5,50000,35000,Electronics,Sony
+199,Sony A7 III Camera,150000,95000,Electronics,Sony
+200,"Sony Bravia 65"" TV",150000,95000,Electronics,Sony
+201,Sony Xperia 5 II,70000,45000,Electronics,Sony
+202,Wireless Keyboard,1800,1200,Electronics,SpeedType
+203,Vivo V21e,25000,15000,Electronics,Vivo
+204,Xiaomi Mi 10,35000,25000,Electronics,Xiaomi
+205,Xiaomi Mi 11X Pro,40000,25000,Electronics,Xiaomi
+206,Xiaomi Mi 10T Pro,35000,23000,Electronics,Xiaomi
+207,Xiaomi Redmi Note 10,15000,10000,Electronics,Xiaomi
+208,Xiaomi Redmi 9 Prime,10000,6500,Electronics,Xiaomi
+209,Xiaomi Mi Mix 4,80000,55000,Electronics,Xiaomi
+210,Xiaomi Mi Smart Camera,8000,4000,Electronics,Xiaomi
+211,Xiaomi Mi 11,70000,45000,Electronics,Xiaomi
+212,Xiaomi Mi 9T Pro,45000,30000,Electronics,Xiaomi
+213,Portable Fan,1200,700,Home Appliances,AirFlow
+214,Bosch 8Kg Washing Machine,35000,22000,Home Appliances,Bosch
+215,Coffee Maker,2500,1500,Home Appliances,BrewMaster
+216,LED Strip Lights,1000,700,Home Appliances,BrightLights
+217,Mini Air Cooler,2500,1600,Home Appliances,ChillBox
+218,Mini Fridge,5000,3000,Home Appliances,ChillMate
+219,Cordless Handheld Vacuum Cleaner,2000,1200,Home Appliances,CleanMax
+220,Nonstick Frying Pan,1000,700,Home Appliances,CookMate
+221,Digital Food Scale,800,500,Home Appliances,CookScale
+222,USB Desk Fan,500,300,Home Appliances,CoolBreeze
+223,Heated Blanket,3000,1800,Home Appliances,CozyWarm
+224,Air Conditioner,40000,25000,Home Appliances,Daikin
+225,Vacuum Cleaner,10000,7000,Home Appliances,Dyson
+226,Dyson V11 Vacuum Cleaner,30000,22000,Home Appliances,Dyson
+227,Dyson Supersonic Hair Dryer,35000,25000,Home Appliances,Dyson
+228,Dyson V10 Cordless Vacuum,30000,18000,Home Appliances,Dyson
+229,Dyson Pure Cool Air Purifier,40000,25000,Home Appliances,Dyson
+230,Air Freshener,400,250,Home Appliances,FreshAir
+231,Electric Milk Frother,800,500,Home Appliances,FrothPro
+232,Smart LED Desk Lamp,1200,800,Home Appliances,Generic
+233,LED Night Light,300,150,Home Appliances,GlowLite
+234,Electric Grill,2500,1800,Home Appliances,GrillMaster
+235,Haier 1 Ton Split AC,30000,20000,Home Appliances,Haier
+236,Haier 260L Refrigerator,25000,17000,Home Appliances,Haier
+237,Electric Fan,4000,2000,Home Appliances,Havells
+238,iRobot Roomba 675,30000,18000,Home Appliances,iRobot
+239,Electric Kettle,1500,900,Home Appliances,KettleMax
+240,Refrigerator,30000,18000,Home Appliances,LG
+241,LG 1.5 Ton AC,45000,28000,Home Appliances,LG
+242,LG 1.5 Ton Inverter AC,40000,25000,Home Appliances,LG
+243,LG 3.5 Ton Inverter AC,70000,45000,Home Appliances,LG
+244,LG Styler Clothes Care,80000,55000,Home Appliances,LG
+245,LG 2 Ton Inverter AC,50000,35000,Home Appliances,LG
+246,Smart Light Bulb,1000,600,Home Appliances,LightSmart
+247,Microwave,15000,10000,Home Appliances,Panasonic
+248,Philips 3000 Series AC,25000,15000,Home Appliances,Philips
+249,Philips 5000 Series Blender,8000,4000,Home Appliances,Philips
+250,Philips Air Fryer XXL,15000,9500,Home Appliances,Philips
+251,Air Purifier,3000,1800,Home Appliances,PureAir
+252,Wireless Doorbell,1000,600,Home Appliances,RingUp
+253,Washing Machine,25000,15000,Home Appliances,Samsung
+254,Samsung Front Load Washer,35000,23000,Home Appliances,Samsung
+255,Solar-Powered Garden Light,400,250,Home Appliances,SolarGlow
+256,Handheld Steamer,2000,1200,Home Appliances,SteamFresh
+257,Digital Thermometer,500,300,Home Appliances,ThermoTech
+258,Digital Alarm Clock,800,500,Home Appliances,TimeTech
+259,Refrigerator,20000,14000,Home Appliances,Whirlpool
+260,Whirlpool 250L Fridge,35000,22000,Home Appliances,Whirlpool
+261,Whirlpool Top Load Washer,22000,15000,Home Appliances,Whirlpool
+262,Battery Operated Fan,1200,700,Home Appliances,WindX
+263,Air Purifier,10000,6000,Home Appliances,Xiaomi
+264,Xiaomi Mi Air Purifier 3,10000,7000,Home Appliances,Xiaomi
+265,Coffee Grinder,3000,1800,Kitchen,Baratza
+266,Coffee Maker,8000,5000,Kitchen,Breville
+267,Instant Pot Pressure Cooker,8000,6000,Kitchen,Instant Pot
+268,KitchenAid Stand Mixer,25000,17000,Kitchen,KitchenAid
+269,Morphy Richards Toaster,2500,1500,Kitchen,Morphy Richards
+270,Blender,5000,3000,Kitchen,Philips
+271,Philips Air Fryer,12000,8000,Kitchen,Philips
+272,Philips Juicer,7000,4500,Kitchen,Philips
+273,Electric Kettle,2000,1200,Kitchen,Prestige
+274,Smeg Espresso Machine,25000,16000,Kitchen,Smeg
+275,Braun Series 7 Shaver,10000,7000,Personal Care,Braun
+276,Bathrobe,1200,800,Personal Care,CozyWear
+277,Dyson Airwrap Styler,45000,30000,Personal Care,Dyson
+278,Dyson Supersonic Hair Dryer,30000,20000,Personal Care,Dyson
+279,Foot Massager,3000,2000,Personal Care,FootRelief
+280,Makeup Mirror,600,350,Personal Care,MirrorGlow
+281,Philips Hair Straightener,4000,2500,Personal Care,Philips
+282,Philips Norelco Shaver,8000,5000,Personal Care,Philips
+283,Philips Sonicare Electric Toothbrush,12000,7000,Personal Care,Philips
+284,Electric Shaver,1500,900,Personal Care,ShavePro
+285,Electric Hair Straightener,1500,1000,Personal Care,SmoothHair
