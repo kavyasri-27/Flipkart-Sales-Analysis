@@ -17,7 +17,17 @@ This project focuses on analyzing Flipkart sales data using **SQL** and **Power 
 ## 📁 Project Structure
 - `sql/` – SQL queries used for analysis  
 - `powerbi/` – Dashboard screenshots    
-- `data/` – Sample dataset  
+- `data/` – Sample dataset
+
+## 🧠 SQL Analysis Highlights
+- Monthly revenue trend with growth percentage using window functions
+- Top 5 product categories by revenue using ranking
+- State-wise Average Order Value (AOV)
+- Products never ordered (inventory gap analysis)
+- High-value customers identification using PL/pgSQL
+- Pending orders and unpaid orders reports using cursors
+- Advanced SQL concepts implemented using PostgreSQL
+
 
 ## ✅ Outcome
 - Built interactive Power BI dashboards
